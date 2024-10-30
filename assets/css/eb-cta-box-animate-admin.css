@@ -1,0 +1,16 @@
+.panel-elements-category-title-eb-elementor-extended {
+    background-color: #9b0a46;
+    color: #fff;
+    margin: 5px 10px;
+    border-radius: 3px;
+}
+
+.eb-cta-box-animate-icon {
+	height: 35px
+}
+i.eicon-eb-cta-box-animate {
+    background-image: url("../images/eb-cta-box-animate.png");
+    height: 30px;
+    width: 30px;
+    background-size: 30px 30px;
+}
